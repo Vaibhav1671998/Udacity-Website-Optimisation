@@ -66,3 +66,5 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
  
  5.Minified the arrays in main.js file
  
+ Click this https://vaibhav1671998.github.io/Udacity-Website-Optimisation/dist/index.html to see this optimised website in action .
+ 
