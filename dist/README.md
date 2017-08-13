@@ -53,3 +53,10 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
+
+##Changes done :-
+ 1.Minified Images,CSS,HTML,JS files
+ 2.inlined the critical CSS file
+ 3.Added async and defer attributes to stylesheets and Script tags
+ 4.Shortening the loops by moving declarations out of the loops in main.js file
+ 5.Minified the arrays in main.js file
